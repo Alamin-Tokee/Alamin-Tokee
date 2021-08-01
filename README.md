@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/linkedin-alamintokee-blue">
   </a>
   <a href="https://www.instagram.com/alamintokee/">
-    <img src="https://img.shields.io/badge/instagram-AlaminTokee-orange">
+    <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
   </a>
   <a href="https://www.youtube.com/CodeOptimizer/">
     <img src="https://img.shields.io/badge/youtube-AlaminTokee-red">
