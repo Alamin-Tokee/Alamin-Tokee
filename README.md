@@ -129,7 +129,7 @@ Sunday       100 commits    ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -156,10 +156,10 @@ PHP                      2 repos             ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/07/2021
+ Last Updated on 8/01/2021
 <!--END_SECTION:waka-->
 	
 </details>
