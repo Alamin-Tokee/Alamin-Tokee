@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Alamin Tokee</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+   <a href="https://www.linkedin.com/in/al-amin-tokee/">
+    <img src="https://img.shields.io/badge/linkedin-alamintokee-blue">
   </a>
-  <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  <a href="https://www.instagram.com/alamintokee/">
+    <img src="https://img.shields.io/badge/instagram-alamintokee-red">
   </a>
-  <span> <img src="https://komarev.com/ghpvc/?username=sachuverma" alt="sachuverma"></span>
+  <span> <img src="https://komarev.com/ghpvc/?username=Alamin-Tokee" alt="alamintokee"></span>
 </p>
 
 
-<h3 align="center">Web Developer | Competitive Coder</h3>
+<h3 align="center">Web Developer | Competitive Coder | Machine Learning </h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
 
 <!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
@@ -26,13 +26,13 @@
 - 🌱 I’m currently learning ... **React.js**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
 - 😄 Employement ... **Open for full-time opportunities**
-- 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">alamintokee@gmail.com</a>**
+- 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
 <h3>Competitive Programming: </h3>
 
 - **Leetcode**: [1353+ rating📈](https://leetcode.com/Alamin_Tokee/)   
 - **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)   
-- **Codechef**: [2⭐](https://www.codechef.com/users/sachuverma)   
+- **Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
 
 <h4>Programming Languages: </h4>
 <p align="left">
@@ -182,4 +182,4 @@ PHP                      2 repos             ░░░░░░░░░░░�
 <a href="https://instagram.com/sachuverma_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sachuverma_" height="40" width="40" /></a>
 </p>
 
-⭐️ From [Sachin Verma](https://github.com/Alamin-Tokee) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
+⭐️ From [Alamin Tokee](https://github.com/Alamin-Tokee) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
