@@ -30,7 +30,7 @@
 
 <h3>Competitive Programming: </h3>
 
-- **Leetcode**: [1353+ rating📈](https://leetcode.com/Alamin_Tokee/)   
+- **Leetcode**: [2⭐ and 1353+ rating📈](https://leetcode.com/Alamin_Tokee/)   
 - **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)   
 - **Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
 - **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)  
