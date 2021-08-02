@@ -188,7 +188,9 @@ PHP                      2 repos             ░░░░░░░░░░░�
 <a href="http://alamintokee.me/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
 <a href="https://linkedin.com/in/al-amin-tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://instagram.com/in/alamintokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/instagram.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
+<a href="https://youtube.com/CodeOptimizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
 <a href="https://twitter.com/tokee_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/twitter.png" alt="alamintokee" height="40" width="40" /></a>
+<a href="https://www.facebook.com/alaminhosen.tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/facebook.png" alt="alamintokee" height="40" width="40" /></a>
 </p>
 
 ⭐️ From [Alamin Tokee](https://github.com/Alamin-Tokee) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```HappyCoding```
