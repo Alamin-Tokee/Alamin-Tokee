@@ -73,6 +73,7 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/github.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/heroku.png" alt=heroku width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/postman.png" alt=heroku width="60" height="60"/>
  
 </p>
 
