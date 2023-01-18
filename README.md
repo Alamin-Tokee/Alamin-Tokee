@@ -43,8 +43,8 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/c.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/python1.png" alt=python width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/java.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/js.png" alt=javascript width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/java.png" alt=c width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
@@ -56,7 +56,6 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/d3.png" alt=d3js width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/js.png" alt=javascript width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/babel.png" alt=babel width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/sass.png" alt=sass width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
