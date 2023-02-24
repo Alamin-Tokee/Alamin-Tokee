@@ -6,14 +6,14 @@
   <a href="https://www.instagram.com/alamintokee/">
     <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
   </a>
-  <a href="https://www.youtube.com/CodeOptimizer/">
+  <a href="https://www.youtube.com/@uschas">
     <img src="https://img.shields.io/badge/youtube-AlaminTokee-red">
   </a>
   <span> <img src="https://komarev.com/ghpvc/?username=Alamin-Tokee" alt="alamintokee"></span>
 </p>
 
 
-<h3 align="center">Web Developer(Django,React) | Competitive Coder | Machine Learning </h3>
+<h3 align="center">Web Developer(Django,Node,React) | Competitive Coder | Machine Learning </h3>
 <h3 align="center">Bachelor in Engineering, Software Engineering </h3>
 
 <!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
@@ -189,7 +189,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 <a href="http:alamin-tokee.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
 <a href="https://linkedin.com/in/al-amin-tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://instagram.com/alamintokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/instagram.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
-<a href="https://youtube.com/CodeOptimizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@uschas" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
 <a href="https://twitter.com/tokee_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/twitter.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://www.facebook.com/alaminhosen.tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/facebook.png" alt="alamintokee" height="40" width="40" /></a>
 </p>
