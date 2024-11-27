@@ -31,6 +31,14 @@
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
+<h3>Professonal Experience: </h3>
+
+- **Software Engineer(SDE2)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineer(SDE1)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineer(Apprentice)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineer(Intern)**: Sheraspce Ltd.   
+
+
 <h3>Competitive Programming: </h3>
 
 - **Leetcode**: [4⭐ and 13300+ Ranking📈](https://leetcode.com/alamin-tokee/)   
