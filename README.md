@@ -36,7 +36,7 @@
 - **Software Engineer(SDE2)**: Walton Hi-Tech Industries PLC.   
 - **Software Engineer(SDE1)**: Walton Hi-Tech Industries PLC.   
 - **Software Engineer(Apprentice)**: Walton Hi-Tech Industries PLC.   
-- **Software Engineer(Intern)**: Sheraspce Ltd.   
+- **Software Engineer(Intern)**: Sheraspace Ltd.   
 
 
 <h3>Competitive Programming: </h3>
