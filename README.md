@@ -25,8 +25,8 @@
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working on **Improving CP Skills**
-- 🌱 I’m currently learning ... **React.js**
+- 🔭 I’m currently working on **AUTOMATION PROJECT**
+- 🌱 I’m currently learning ... **CUDA/PyTorch**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
@@ -41,9 +41,9 @@
 
 <h3>Competitive Programming: </h3>
 
-- **Leetcode**: [4⭐ and 13300+ Ranking📈](https://leetcode.com/alamin-tokee/)
-- **Google Scholar**: [Alamin](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
-- **ORCID**: [Alamin](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
+- **Leetcode**: [4⭐ and 12004+ Ranking📈](https://leetcode.com/alamin-tokee/)
+- **Google Scholar**: [Md Alamin](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
+- **ORCID**: [Md Alamin](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
 <!-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)
 *Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
 - **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)-->  
