@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">Web Developer(Django,Node,React) | Competitive Coder | Machine Learning </h3>
+<h3 align="center">Software Engineer | Researcher | Mentor </h3>
 <h3 align="center">Bachelor in Engineering, Software Engineering </h3>
 
 <!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
@@ -41,10 +41,12 @@
 
 <h3>Competitive Programming: </h3>
 
-- **Leetcode**: [4⭐ and 13300+ Ranking📈](https://leetcode.com/alamin-tokee/)   
-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)   
-- **Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
-- **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)  
+- **Leetcode**: [4⭐ and 13300+ Ranking📈](https://leetcode.com/alamin-tokee/)
+- **Google Scholar**: [Alamin](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
+- **ORCID**: [Alamin](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
+<!-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)
+*Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
+- **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)-->  
 
 <h4>Programming Languages: </h4>
 <p align="left">
