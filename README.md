@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/alamintokee/">
     <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
   </a>
-  <a href="https://www.youtube.com/@uschas">
+  <a href="https://www.youtube.com/@apostrophe4u">
     <img src="https://img.shields.io/badge/youtube-AlaminTokee-red">
   </a>
   <span> <img src="https://komarev.com/ghpvc/?username=Alamin-Tokee" alt="alamintokee"></span>
