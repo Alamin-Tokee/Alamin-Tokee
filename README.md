@@ -25,26 +25,26 @@
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working on **AUTOMATION PROJECT**
+- 🔭 I’m currently working on **Automation Project**
 - 🌱 I’m currently learning ... **CUDA/PyTorch**
-- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
+- 💬 Ask me about ... **ML/DL, Data Structures & Algorithms**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
 <h3>Professonal Experience: </h3>
+- **Software Engineer(SDEIII)**: Walton Hi-Tech Industries PLC. 
+- **Software Engineer(SDEII)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineer(SDEI)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineering Apprentice**: Walton Hi-Tech Industries PLC.   
+- **Software Engineering Intern**: Sheraspace Ltd.   
 
-- **Software Engineer(SDE2)**: Walton Hi-Tech Industries PLC.   
-- **Software Engineer(SDE1)**: Walton Hi-Tech Industries PLC.   
-- **Software Engineer(Apprentice)**: Walton Hi-Tech Industries PLC.   
-- **Software Engineer(Intern)**: Sheraspace Ltd.   
 
-
-<h3>Competitive Programming: </h3>
+<h3>Research Profile: </h3>
 
 <!-- - **Leetcode**: [4⭐ and 12004+ Ranking📈](https://leetcode.com/alamin-tokee/)-->
 - **Google Scholar**: [https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
 - **ResearchGate**: [https://www.researchgate.net/profile/Md-Al-Amin-85](https://www.researchgate.net/profile/Md-Al-Amin-85)
-- **ORCID**: [Md Alamin](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
+- **ORCID**: [https://orcid.org/my-orcid?orcid=0009-0002-8584-663X](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
 <!-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)
 *Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
 - **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)-->  
@@ -101,11 +101,11 @@
 </p>
 <br />
 
-<details>
+<!-- <details> -->
   <!-- <summary align="center">  -->
     <!-- <span style="font-size:4em;">Check My Stats!✨ </span> -->
   <!-- </summary> -->
-  <br />
+  <!--<br />-->
 	
   <!--START_SECTION:waka-->
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624794%20lines%20of%20code-blue)-->
@@ -181,7 +181,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
  Last Updated on 8/01/2021 -->
 <!--END_SECTION:waka-->
 	
-</details>
+<!-- </details> -->
 
 
 
