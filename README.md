@@ -32,9 +32,9 @@
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
 <h3>Professonal Experience: </h3>
-- **Software Engineer(SDEIII)**: Walton Hi-Tech Industries PLC. 
-- **Software Engineer(SDEII)**: Walton Hi-Tech Industries PLC.   
-- **Software Engineer(SDEI)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineer(SDE3)**: Walton Hi-Tech Industries PLC. 
+- **Software Engineer(SDE2)**: Walton Hi-Tech Industries PLC.   
+- **Software Engineer(SDE1)**: Walton Hi-Tech Industries PLC.   
 - **Software Engineering Apprentice**: Walton Hi-Tech Industries PLC.   
 - **Software Engineering Intern**: Sheraspace Ltd.   
 
