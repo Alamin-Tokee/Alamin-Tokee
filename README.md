@@ -102,13 +102,13 @@
 <br />
 
 <details>
-  <summary align="center"> 
+  <!-- <summary align="center">  -->
     <!-- <span style="font-size:4em;">Check My Stats!✨ </span> -->
-  </summary>
+  <!-- </summary> -->
   <br />
 	
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624794%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624794%20lines%20of%20code-blue)-->
 
 **🐱 My Github Data** 
 
