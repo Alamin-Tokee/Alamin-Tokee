@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **Automation Project**
 - 🌱 I’m currently learning ... **CUDA/PyTorch**
-- 💬 Ask me about ... **ML/DL, Data Structures & Algorithms**
+- 💬 Ask me about ... **ML/DL, Computer Vision, Computational Biology**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
@@ -101,6 +101,9 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/eclipse.png" alt=sublime width="60" height="60"/>
 </p>
 <br />
+
+
+ <!-- <span style="font-size:4em;">Check My Stats!✨ </span> -->
 
 <!-- <details> -->
   <!-- <summary align="center">  -->
@@ -198,10 +201,10 @@ PHP                      2 repos             ░░░░░░░░░░░�
 
 <p align="center">
 <!--<a href="https://codepen.io/alamintokee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alamintokee" height="40" width="40" /></a>-->
-<a href="http:alamin-tokee.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
+<a href="http:alamin-tokee.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
 <a href="https://linkedin.com/in/al-amin-tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://instagram.com/alamintokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/instagram.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@uschas" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@apostrophe4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
 <a href="https://twitter.com/tokee_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/twitter.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://www.facebook.com/alaminhosen.tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/facebook.png" alt="alamintokee" height="40" width="40" /></a>
 </p>
