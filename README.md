@@ -42,8 +42,8 @@
 <h3>Competitive Programming: </h3>
 
 <!-- - **Leetcode**: [4⭐ and 12004+ Ranking📈](https://leetcode.com/alamin-tokee/)-->
-- **Google Scholar**: [Md Alamin](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
-- **ResearchGate**: [Md Al Amin]([https://leetcode.com/alamin-tokee/](https://www.researchgate.net/profile/Md-Al-Amin-85)
+- **Google Scholar**: [https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
+- **ResearchGate**: [https://www.researchgate.net/profile/Md-Al-Amin-85](https://www.researchgate.net/profile/Md-Al-Amin-85)
 - **ORCID**: [Md Alamin](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
 <!-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)
 *Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
